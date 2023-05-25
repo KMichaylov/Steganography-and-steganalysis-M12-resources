@@ -13,9 +13,6 @@ do
         continue
     fi
     filename="${FILE%%.*}"
-    outguess -d secret.txt $filename.jpg $filename-stego.jpg
-    f5 e -e secret.txt -p "secret$#497" $filename.jpg $filename-stego.jpg
+    java -jar /home/kristiyan/m12-tools/f5-steganography/tests/f5.jar e -e secret.txt -p "secret$#497" $filename.jpg $filename-stego.jpg
     rm $FILE
 done
-
-/home/kristiyan/m12-tools/f5-steganography/tests
