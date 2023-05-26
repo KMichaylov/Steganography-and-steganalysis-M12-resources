@@ -13,6 +13,6 @@ do
         continue
     fi
     filename="${FILE%%.*}"
-    outguess -d secret.txt $filename.jpg $filename-stego.jpg
+    outguess -d secret.txt $filename.jpg $filename-s.jpg
     rm $FILE
 done

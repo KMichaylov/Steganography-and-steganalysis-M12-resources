@@ -15,6 +15,6 @@ do
         continue
     fi
     filename="${FILE%%.*}"
-    steghide embed -cf $filename.jpg -ef secret.txt -sf $filename-stego.jpg
+    steghide embed -cf $filename.jpg -ef secret.txt -sf $filename-s.jpg
     rm $FILE
 done
