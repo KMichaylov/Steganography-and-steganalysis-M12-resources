@@ -1,36 +1,35 @@
                      Outguess  Steghide   nsF5  J-UNIWARD *
 -----------------------------------------------------------
-food-grayscale-st...    0.0     [1.0]     0.4     [0.9]  
+food-grayscale-st...    0.0     [1.0]    [0.8]    [1.0]  
 mountain-grayscal...    0.0     [1.0]    [0.9]     0.1   
-building-stego.jpg      0.0     [1.0]     0.4      0.1   
-sea-stego.jpg          [1.0]    [1.0]    [0.9]     0.5   
+building-stego.jpg      0.0     [1.0]    [0.7]     0.1   
+sea-stego.jpg          [1.0]    [1.0]    [1.0]    [0.6]  
 space.jpg               0.0     [1.0]    [0.6]     0.1   
 party-stego.jpg        [1.0]    [1.0]    [1.0]    [0.9]  
 cloud.jpg               0.1     [1.0]    [0.5]    [0.9]  
 tiger-grayscale.jpg     0.0     [1.0]    [1.0]    [0.9]  
-party-grayscale-s...   [0.8]    [1.0]    [1.0]    [1.0]  
-sea-grayscale-ste...    0.0     [0.6]    [0.8]    [0.8]  
+party-grayscale-s...   [0.7]    [1.0]    [1.0]    [1.0]  
+sea-grayscale-ste...    0.0     [1.0]    [1.0]    [0.9]  
 tennis.jpg             [1.0]    [1.0]    [0.9]    [0.9]  
 kitchen.jpg            [1.0]    [1.0]    [0.9]    [0.9]  
 flower-grayscale.jpg    0.0     [1.0]    [0.8]    [1.0]  
-city-stego.jpg          0.0     [1.0]     0.1      0.0   
-stadium-stego.jpg       0.0     [1.0]     0.3      0.2   
+city-stego.jpg          0.0     [1.0]     0.2      0.1   
+stadium-stego.jpg       0.0     [1.0]    [0.7]    [0.6]  
 tennis-grayscale.jpg   [1.0]    [1.0]    [1.0]    [1.0]  
 tiger.jpg               0.0     [1.0]    [0.9]     0.4   
 cloud-grayscale.jpg     0.0     [0.9]    [0.8]    [1.0]  
-stadium-grayscale...    0.0     [1.0]     0.3      0.3   
-nature-grayscale-...    0.0     [1.0]     0.4      0.1   
-building-grayscal...    0.0      0.4      0.4      0.1   
-river-grayscale-s...    0.0     [1.0]    [1.0]     0.2   
-river-stego.jpg         0.0     [1.0]    [1.0]     0.1   
-food-stego.jpg         [1.0]    [1.0]    [0.5]    [0.6]  
+stadium-grayscale...    0.0     [1.0]    [0.6]    [0.9]  
+nature-grayscale-...    0.0     [1.0]    [0.8]    [0.8]  
+building-grayscal...    0.0     [0.6]    [0.5]     0.1   
+river-grayscale-s...    0.0     [1.0]    [1.0]    [0.9]  
+river-stego.jpg         0.0     [1.0]    [1.0]    [0.9]  
+food-stego.jpg         [1.0]    [1.0]    [1.0]     0.4   
 flower.jpg              0.0     [1.0]    [0.9]    [0.9]  
-nature-stego.jpg        0.0     [1.0]     0.3      0.2   
+nature-stego.jpg        0.0     [1.0]    [0.6]     0.2   
 mountain.jpg            0.0     [1.0]    [0.9]     0.2   
-city-grayscale-st...    0.0     [0.9]     0.1      0.1   
+city-grayscale-st...    0.0     [1.0]     0.2      0.3   
 kitchen-grayscale...    0.2     [1.0]    [0.9]    [0.9]  
 space-grayscale.jpg     0.0     [1.0]    [0.8]     0.0   
 
 * Probability of being stego using the indicated steganographic method.
-
 
