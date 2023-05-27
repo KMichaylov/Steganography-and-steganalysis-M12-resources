@@ -1,34 +1,36 @@
                      Outguess  Steghide   nsF5  J-UNIWARD *
 -----------------------------------------------------------
-food-grayscale-st...    0.0     [1.0]     0.2     [0.9]  
-mountain-grayscal...    0.0     [1.0]    [0.9]     0.1   
-building-stego.jpg      0.0     [1.0]     0.3      0.1   
-sea-stego.jpg          [1.0]    [0.8]     0.3     [0.6]  
-space.jpg               0.0     [1.0]    [0.6]     0.1   
-party-stego.jpg        [1.0]    [1.0]     0.5     [1.0]  
-cloud.jpg               0.1     [1.0]    [0.5]    [0.9]  
-tiger-grayscale.jpg     0.0     [1.0]    [1.0]    [0.9]  
-party-grayscale-s...   [1.0]    [1.0]    [0.6]    [1.0]  
-sea-grayscale-ste...    0.1     [1.0]     0.2     [1.0]  
-tennis.jpg             [1.0]    [1.0]    [0.9]    [0.9]  
-kitchen.jpg            [1.0]    [1.0]    [0.9]    [0.9]  
-flower-grayscale.jpg    0.0     [1.0]    [0.8]    [1.0]  
-city-stego.jpg          0.0     [0.9]     0.1      0.0   
-stadium-stego.jpg       0.0     [1.0]     0.1      0.1   
-tennis-grayscale.jpg   [1.0]    [1.0]    [1.0]    [1.0]  
-tiger.jpg               0.0     [1.0]    [0.9]     0.4   
-cloud-grayscale.jpg     0.0     [0.9]    [0.8]    [1.0]  
-stadium-grayscale...    0.0     [1.0]     0.1      0.1   
-nature-grayscale-...    0.0     [1.0]     0.1      0.4   
-building-grayscal...    0.0     [1.0]     0.3      0.1   
-river-grayscale-s...    0.0     [1.0]    [0.7]     0.1   
-river-stego.jpg         0.0     [1.0]    [0.7]     0.0   
-food-stego.jpg         [1.0]    [1.0]     0.1     [0.7]  
-flower.jpg              0.0     [1.0]    [0.9]    [0.9]  
-nature-stego.jpg       [1.0]    [1.0]     0.1      0.1   
-mountain.jpg            0.0     [1.0]    [0.9]     0.2   
-city-grayscale-st...    0.0     [1.0]     0.2      0.1   
-kitchen-grayscale...    0.2     [1.0]    [0.9]    [0.9]  
-space-grayscale.jpg     0.0     [1.0]    [0.8]     0.0   
+s.jpg                   0.0     [1.0]    [0.6]     0.1   1 
+k.jpg                  [1.0]    [1.0]    [0.9]    [0.9]  0
+cl.jpg                  0.1     [1.0]    [0.5]    [0.9]  0
+t-g.jpg                [1.0]    [1.0]    [1.0]    [1.0]  0
+b-g-s.jpg               0.0     [1.0]     0.3      0.1   0
+n-g-s.jpg               0.0     [1.0]     0.1      0.4   0
+c-g-s.jpg               0.0     [1.0]     0.2      0.1   0
+ti-g.jpg                0.0     [1.0]    [1.0]    [0.9]  0
+cl-g.jpg                0.0     [0.9]    [0.8]    [1.0]  0
+st-s.jpg                0.0     [1.0]     0.1      0.1   0
+m.jpg                   0.0     [1.0]    [0.9]     0.2   0
+se-s.jpg               [1.0]    [0.8]     0.3     [0.6]  1
+fo-g-s.jpg              0.0     [1.0]     0.2     [0.9]  1
+s-g.jpg                 0.0     [1.0]    [0.8]     0.0   1
+fo-s.jpg               [1.0]    [1.0]     0.1     [0.7]  1
+c-s.jpg                 0.0     [0.9]     0.1      0.0   0
+t.jpg                  [1.0]    [1.0]    [0.9]    [0.9]  0
+se-g-s.jpg              0.1     [1.0]     0.2     [1.0]  1
+n-s.jpg                [1.0]    [1.0]     0.1      0.1   1
+st-g-s.jpg              0.0     [1.0]     0.1      0.1   0
+r-g-s.jpg               0.0     [1.0]    [0.7]     0.1   0
+p-s.jpg                [1.0]    [1.0]     0.5     [1.0]  1
+f.jpg                   0.0     [1.0]    [0.9]    [0.9]  0
+p-g-s.jpg              [1.0]    [1.0]    [0.6]    [1.0]  1
+k-g.jpg                 0.2     [1.0]    [0.9]    [0.9]  0
+f-g.jpg                 0.0     [1.0]    [0.8]    [1.0]  0
+ti.jpg                  0.0     [1.0]    [0.9]     0.4   0
+r-s.jpg                 0.0     [1.0]    [0.7]     0.0   0
+m-g.jpg                 0.0     [1.0]    [0.9]     0.1   0
+b-s.jpg                 0.0     [1.0]     0.3      0.1   0
 
+ACCURACY 30%
 * Probability of being stego using the indicated steganographic method.
+
