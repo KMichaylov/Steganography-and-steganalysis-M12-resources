@@ -1,13 +1,3 @@
-# Only embedd in the following images:
-#     • Building
-    # • City
-    # • Food
-    # • Party
-    # • Nature
-    # • Stadium
-    # • River
-    # • Sea
-
 # passphrase - secret$#497
 for FILE in *
 do
