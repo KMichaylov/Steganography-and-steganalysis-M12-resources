@@ -3,7 +3,7 @@ from tabulate import tabulate
 import os
 import numpy as np
 
-
+# The code is from GeeksForGeeks: https://www.tutorialspoint.com/how-to-compare-two-images-in-opencv-python
 def MSE(cover_image, stego_image):
     h, w, _ = cover_image.shape
     diff = cv2.subtract(cover_image, stego_image)
@@ -56,4 +56,3 @@ for i in range(0, len(images) - 1):
     data.append(row)
 print(tabulate(data, headers=columns, tablefmt="grid", showindex="always"))
 
-# The code is from GeeksForGeeks: https://www.tutorialspoint.com/how-to-compare-two-images-in-opencv-python
