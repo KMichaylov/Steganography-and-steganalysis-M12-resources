@@ -11,9 +11,6 @@ def MSE(cover_image, stego_image):
     mse = err / (float(h * w))
     return mse
 
-
-# TODO: Create new dataset including at least 2 other different sizes and analyse the results.
-# Ask Dipti for other sizes.
 columns = ["Name", "Size", "Dimensions" "Color", "MSE", "PSNR"]
 # Create a flexible script, independent of folder location and images,
 folder_location = "D:\Study Materials\Year 3 (2022-2023)\Module " \
