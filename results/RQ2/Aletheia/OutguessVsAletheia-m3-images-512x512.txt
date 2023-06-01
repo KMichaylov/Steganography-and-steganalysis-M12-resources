@@ -31,6 +31,7 @@ r-s.jpg                [1.0]    [1.0]    [0.7]     0.0   1
 m-g.jpg                 0.0     [1.0]    [0.9]     0.1   0
 b-s.jpg                 0.0     [1.0]     0.4      0.1   0
 
-ACCURACT: 30%
+ACCURACY: 30%
+
 * Probability of being stego using the indicated steganographic method.
 
