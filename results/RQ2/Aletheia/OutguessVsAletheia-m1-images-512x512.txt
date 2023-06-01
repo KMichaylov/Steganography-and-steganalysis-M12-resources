@@ -31,6 +31,11 @@ r-s.jpg                 0.0     [1.0]    [0.7]     0.0   1
 m-g.jpg                 0.0     [1.0]    [0.9]     0.1   0
 b-s.jpg                 0.0     [1.0]     0.3      0.1   0
 
-ACCURACY: 30%
+GRAYSCALE ACCURACY: 26.6%
+
+COLOURFUL ACCURACY: 33.3%
+
+OVERALL ACCURACY: 30.0%
+
 * Probability of being stego using the indicated steganographic method.
 
