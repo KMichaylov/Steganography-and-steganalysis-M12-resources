@@ -26,7 +26,7 @@ for image_dataset in image_dataset_names:
                                             '{}-{}.csv'.format(image_dataset, steganograpy_dataset))
         with open(location_for_results, 'w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(["Name", "Size", "Dimensions" "Color", "MSE", "PSNR"])
+            writer.writerow(["Name", "Size", "Dimensions", "Color", "MSE", "PSNR"])
             for i in range(0, len(images)):
                 path_to_image = os.path.join(os.getcwd(), images[i])
                 img_location = "{}".format(path_to_image)
