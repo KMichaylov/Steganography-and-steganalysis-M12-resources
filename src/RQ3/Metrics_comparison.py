@@ -5,7 +5,6 @@ from MSE_function import MSE
 import csv
 import numpy as np
 
-# TODO: Sort the images alphabetically, to ensure that cover and stego are adjacent!
 images_root_location = os.path.join("..", "..", "images", "RQ3-dataset", "Images512x512")
 os.chdir(images_root_location)
 image_dataset_names = ["F5", "Outguess", "Steghide"]
