@@ -6,8 +6,6 @@ import pandas as pd
 import numpy as np
 from statistics import mean
 
-# TODO: Add csv files to save the results there
-
 images_root_location = os.path.join("..", "..", "results", "RQ3")
 os.chdir(images_root_location)
 image_dataset_names = ["F5", "Outguess", "Steghide"]
