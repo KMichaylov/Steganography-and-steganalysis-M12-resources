@@ -1,9 +1,9 @@
 import cv2
 from tabulate import tabulate
 import os
-from MSE_function import MSE
 import csv
 import numpy as np
+from skimage.metrics import mean_squared_error, peak_signal_noise_ratio
 
 images_root_location = os.path.join("..", "..", "images", "RQ3-dataset", "Images512x512")
 os.chdir(images_root_location)
@@ -58,8 +58,8 @@ for image_dataset in image_dataset_names:
                     else:
                         row.append('colourful')
                     if count % 2 == 0:
-                        mse = MSE(img1, img2)
-                        psnr = cv2.PSNR(img1, img2)
+                        mse = mean_squared_error(img1, img2)
+                        psnr = peak_signal_noise_ratio(img2, img1)
                         current_psnr = psnr
                         current_mse = mse
                     else:
