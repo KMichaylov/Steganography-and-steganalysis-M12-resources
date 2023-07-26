@@ -1,5 +1,5 @@
-# Steganography-and-steganalysis-M12-resources
-M12 thesis experiments results and resources.
+# Steganography and Steganalysis for Enhanced Forensic Analysis and Recommendations
+Paper experiments results and resources.
 
 * All the images are stored in the "images" folder
 * All the results are stored in the "results" folder.
